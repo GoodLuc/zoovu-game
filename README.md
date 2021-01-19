@@ -12,4 +12,4 @@ I tried to keep the codebase simple and clean while delivering a working solutio
 
 Added a win count functionality.
 
-Check the *dist* folder for a compiled version.
+Download *dist.zip* for the compiled version.
