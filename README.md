@@ -12,4 +12,6 @@ I tried to keep the codebase simple and clean while delivering a working solutio
 
 Added a win count functionality.
 
-Download *dist.zip* for the compiled version.
+Download **dist.zip** for the compiled version.
+
+Hope to hear back from you soon!
