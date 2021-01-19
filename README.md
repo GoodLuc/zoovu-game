@@ -1,24 +1,15 @@
 # zoovu-game
 
-## Project setup
-```
-npm install
-```
+A simple game.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Thank you for your consideration!
 
-### Compiles and minifies for production
-```
-npm run build
-```
+This was done in Vue.
 
-### Lints and fixes files
-```
-npm run lint
-```
+FYI: There are a lot of ways I can improve this (including Typescript support.)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+I tried to keep the codebase simple and clean while delivering a working solution in the shortest time possible.
+
+Added a win count functionality.
+
+Check the *dist* folder for a compiled version.
